@@ -1,0 +1,16 @@
+{
+    "miniapp": {
+        "name": [
+            "穗康",
+            "粤省事"
+        ],
+        "穗康": {
+            "ID": "gh_8052c0bb85ba",
+            "URL": "packages/health-code/pages/report-health/index.html"
+        },
+        "粤省事": {
+            "ID": "gh_1ac06b5a8f4e",
+            "URL": "operation_plus/pages/yiqing/daka/user/index/index.html?cityCode=4406&service_id=1"
+        }
+    }
+}
